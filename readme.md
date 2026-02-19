@@ -12,8 +12,13 @@ First i made three variable to input the prices of the items, then i calculated 
 Sample Output:
 
 Enter price of item 1: 23
+
 Enter price of item 2: 45
+
 Enter price of item 3: 56
+
 Total price: 124
+
 Discount applied: 12.40
+
 Final price: 111.60
